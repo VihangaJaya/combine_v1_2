@@ -1,0 +1,6 @@
+[submodule "unified-paas-v2"]
+	path = unified-paas-v2
+	url = https://github.com/VihangaJaya/unified-paas-v2.git
+[submodule "unified_Paas"]
+	path = unified_Paas
+	url = https://github.com/VihangaJaya/unified_Paas.git
